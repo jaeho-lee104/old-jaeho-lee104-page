@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: leejaeho blog                          # the main title
+title: jaeho's blog                          # the main title
 
 tagline: make headway   # it will display as the sub-title
 
@@ -22,7 +22,7 @@ url: 'https://leejaeho.dev'
 
 author: leejaeho                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/jarong.jpg   # support internet resources
 
 github:
   username: jaeho-lee104             # change to your github username
