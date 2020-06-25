@@ -2,9 +2,7 @@
 layout: compress
 
 # The list to be cached by PWA
-# Chirpy v2.2
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2020 Cotes Chung
+# v2.2
 # MIT Licensed
 ---
 
