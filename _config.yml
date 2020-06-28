@@ -60,7 +60,7 @@ google_analytics:
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
     enabled: true
     # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: 'https://jaeho-blog.appspot.com'
+    proxy_url: 'https://jaeho-blog.appspot.com/admin/auth'
     proxy_endpoint: 'https://jaeho-blog.appspot.com/query?id=agx2fmphZWhvLWJsb2dyFQsSCEFwaVF1ZXJ5GICAgOjXh4EKDA'
     cache: false  # pv data local cache, good for the users from GFW area.
 
