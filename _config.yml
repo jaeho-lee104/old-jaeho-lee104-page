@@ -13,9 +13,7 @@ title: jaeho's blog                          # the main title
 tagline: make headway   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  make headway
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://leejaeho.dev'
@@ -54,14 +52,14 @@ baseurl: ''
 timezone: Asia/Seoul
 
 google_analytics:
-  id: 'UA-171055976-1'          # Fill with your Google Analytics ID
+  id: '' #'UA-171055976-1'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: true
+    enabled: false
     # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: 'https://jaeho-blog.appspot.com/admin'
-    proxy_endpoint: 'https://jaeho-blog.appspot.com/query?id=agx2fmphZWhvLWJsb2dyFQsSCEFwaVF1ZXJ5GICAgOjXh4EKDA'
+    proxy_url: '' #https://jaeho-blog.appspot.com/admin'
+    proxy_endpoint: '' #https://jaeho-blog.appspot.com/query?id=agx2fmphZWhvLWJsb2dyFQsSCEFwaVF1ZXJ5GICAgOjXh4EKDA'
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
