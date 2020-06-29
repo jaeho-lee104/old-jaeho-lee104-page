@@ -2,8 +2,6 @@
 layout: compress
 # Atom Feed, reference: https://validator.w3.org/feed/docs/atom.html
 # v2.0
-        #
-        # ©
 # MIT License
 ---
 
@@ -12,6 +10,7 @@ layout: compress
   <id>{{ site.url }}</id>
   <title>{{ site.title }}</title>
   <subtitle>{{ site.description }}</subtitle>
+  <description>{{ site.description }}</description>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <author>
     <name>{{ site.author }}</name>
