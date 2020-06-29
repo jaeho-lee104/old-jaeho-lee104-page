@@ -8,4 +8,7 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+* 현업 안드로이드 개발자
+* 관심 키워드 : `exoplayer`, `kotlin`, `flutter`, `material design`, `clean architecture` 
+
+무겁지 않게 지식이나 생각을 정리하려고 해요 😊 
