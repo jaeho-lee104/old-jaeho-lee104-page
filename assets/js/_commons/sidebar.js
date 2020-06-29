@@ -2,7 +2,7 @@
  * Expand or close the sidebar in mobile screens.
  * v2.0
  *
- * © 2018-2019 Cotes Chung
+ * © 2018-
  * MIT License
  */
 

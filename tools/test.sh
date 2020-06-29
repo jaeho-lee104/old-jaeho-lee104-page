@@ -8,7 +8,7 @@
 #
 # v2.0
 #
-# © 2020 Cotes Chung
+# ©
 # MIT Licensed
 
 DEST=_site

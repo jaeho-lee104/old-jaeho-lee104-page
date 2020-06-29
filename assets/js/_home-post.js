@@ -2,7 +2,7 @@
   JS group for layout Home or Post
    v2.3
 
-  © 2020 Cotes Chung
+  ©
   MIT License
 */
 

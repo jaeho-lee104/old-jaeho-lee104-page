@@ -2,7 +2,7 @@
  * Tab 'Categories' expand/close effect.
  * v2.0
  *
- * © 2018-2019 Cotes Chung
+ * © 2018-
  * MIT License
  */
 

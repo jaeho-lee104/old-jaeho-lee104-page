@@ -3,7 +3,7 @@
 # Build jekyll site and store site files in ./_site
 # v2.0
 #
-# © 2019 Cotes Chung
+# ©
 # Published under MIT License
 
 set -eu

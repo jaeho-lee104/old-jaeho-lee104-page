@@ -2,7 +2,7 @@
   Aggregation of common JS.
   @2.3
 
-  © 2020 Cotes Chung
+  ©
   MIT License
 */
 

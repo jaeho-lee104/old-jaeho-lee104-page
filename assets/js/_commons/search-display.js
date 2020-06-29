@@ -2,7 +2,7 @@
 * This script make #search-result-wrapper switch to unloaded or shown automatically.
 * v2.0
 *
-* © 2018-2019 Cotes Chung
+* © 2018-
 * MIT License
 */
 

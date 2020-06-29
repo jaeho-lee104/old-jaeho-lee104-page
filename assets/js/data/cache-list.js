@@ -4,7 +4,7 @@ layout: compress
 # The list to be cached by PWA
 #  v2.2
 #
-# © 2020 Cotes Chung
+# ©
 # MIT Licensed
 ---
 

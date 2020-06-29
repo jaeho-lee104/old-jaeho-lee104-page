@@ -9,7 +9,7 @@
 #
 # v2.0
 #
-# © 2019 Cotes Chung
+# ©
 # MIT Licensed
 
 

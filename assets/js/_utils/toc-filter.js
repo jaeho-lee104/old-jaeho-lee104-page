@@ -2,7 +2,7 @@
  * Hide the empty ToC in posts.
  * v2.0
  *
- * © 2019 Cotes Chung
+ * ©
  * MIT Licensed
  */
 

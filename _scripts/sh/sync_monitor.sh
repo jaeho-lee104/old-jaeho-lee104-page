@@ -3,7 +3,7 @@
 # Files sync monitor
 # v2.0
 #
-# © 2019 Cotes Chung
+# ©
 # MIT Licensed
 
 # $1 -> the origin file with absolute path.
