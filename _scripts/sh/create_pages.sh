@@ -130,9 +130,12 @@ create_pages() {
 main() {
   init
 
-  for _file in $(ls "_posts")
+
+  BASE_PATH="/Users/leejaeho/jaeho-lee104.github.io/_posts"
+
+  for _file in $(ls "$BASE_PATH")
   do
-    local _path="_posts/$_file"
+    local _path="$BASE_PATH/$_file"
     local _categories=$(read_categories "$_path")
     local _tags=$(read_tags "$_path")
 
