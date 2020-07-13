@@ -184,6 +184,7 @@ public interface Comparable<in T> {
 }
 ```
 <center>[코드 1-6]</center>
+<br>
 
 Comparable interface에서 compareTo 함수는 제네릭으로 지정된 타입의 객체를 비교하는 함수다. (객체 간의 대소 비교를 가능하게 함)
 그리고 Comparable 제네릭 타입 선언 부분을 보면 `<in T>`로 작성 되어있다.
@@ -197,6 +198,7 @@ val stringComparable: Comparable<String>
 val anyComparable: Comparable<Any>
 ```
 <center>[코드 1-7]</center>
+<br>
 
 charSequenceComparable는 정렬과 같은 로직에 활용되기 위해 CharSequence 객체 간의 크기 비교에 대해 정의한 `Comparable<CharSequence>` 타입의 객체다.
 charSequenceComparable의 경우 비교 로직을 작성할 때 CharSequence의 length를 이용하여 비교했을 수도 있고, hashCode() 값을 이용했을 수도 있다.
