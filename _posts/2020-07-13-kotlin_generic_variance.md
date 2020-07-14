@@ -3,7 +3,7 @@ title: 코틀린 변성에 대한 이해
 author: leejaeho
 date: 2020-07-13 04:45:00 +0900
 categories: [Kotlin]
-tags: covariance, contravariance, generic
+tags: [covariance, contravariance, generic]
 ---
 
 # 변성(variance)이란?
